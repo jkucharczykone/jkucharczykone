@@ -14,15 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-🤯🤯🤯🤯🤯🤯🤯🤯🤯🤯🤯🤯🤯🤯🤯🤯
-🤯🤯🤯🤯🤯🤯🤯🤯🤯🤯🤯🤯🤯🤯🤯🤯
-🤯🤯🤯🤯🤯🤯🤯🤯🤯🤯🤯🤯🤯🤯🤯🤯
-🤯🤯🤯🤯🤯🤯🤯🤯🤯🤯🤯🤯🤯🤯🤯🤯
-🤯🤯🤯🤯🤯🤯🤯🤯🤯🤯🤯🤯🤯🤯🤯🤯
-🤯🤯🤯🤯🤯🤯🤯🤯🤯🤯🤯🤯🤯🤯🤯🤯
-👹          	 	           👹
-👹   👻   👨‍🎤    👨‍🎤             👹
-👹   👻      👨‍🎤                👹
-👹   👻   👨‍🎤    👨‍🎤             👹
-👹                             👹
-👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹
+
+
+- 🌱 I’m currently learning Python Boto3
+- 👯 I’m looking to collaborate on IaC Projects via Python
